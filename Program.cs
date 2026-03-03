@@ -1,10 +1,13 @@
-﻿//using SafeBanking.UI;
+﻿using System.Text;
 using SafeBanking.Services;
 
 class Program
 {
     public static void Main()
     {
+        Console.OutputEncoding = Encoding.UTF8;
+        Console.InputEncoding = Encoding.UTF8;
+
         int status = -1;
 
         while (status != 4)

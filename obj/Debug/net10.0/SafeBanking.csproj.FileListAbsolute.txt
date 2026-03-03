@@ -113,3 +113,4 @@ C:\Users\Russo\Desktop\SafeBanking\obj\Debug\net10.0\refint\SafeBanking.dll
 C:\Users\Russo\Desktop\SafeBanking\obj\Debug\net10.0\SafeBanking.pdb
 C:\Users\Russo\Desktop\SafeBanking\obj\Debug\net10.0\SafeBanking.genruntimeconfig.cache
 C:\Users\Russo\Desktop\SafeBanking\obj\Debug\net10.0\ref\SafeBanking.dll
+C:\Users\Russo\Desktop\SafeBanking\obj\Debug\net10.0\SafeBanking.sourcelink.json

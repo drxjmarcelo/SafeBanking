@@ -30,7 +30,8 @@ namespace SafeBanking.Services
             using var context = new AppDbContext();
 
             Console.WriteLine("Full name:");
-            string? fullName = Console.ReadLine();
+            string? rawName = Console.ReadLine();
+            string fullName = NullRm.Sanitize(rawName);
 
             Console.WriteLine("CPF:");
             string? cpf = Console.ReadLine();

@@ -66,7 +66,7 @@ Algoritmo utilizado para hash seguro de senhas.
 ### DBeaver ⬜
 Ferramenta utilizada para administração e consulta do banco de dados.
 
-## 📦 Instalação Dos Pacotes
+## 📦 Instalação Dos Pacotes:
 Devem ser instalados usando: 
 * `dotnet add package Microsoft.EntityFrameworkCore`
 * `dotnet add package Microsoft.EntityFrameworkCore.Tools`
@@ -75,7 +75,7 @@ Devem ser instalados usando:
 * `dotnet tool install --global dotnet-ef`
 * `dotnet add package BCrypt.Net-Next`
 
-## 💡📋 Separação de Responsábilidades
+## 💡📋 Separação de Responsabilidades:
 A arquitetura segue uma estrutura bem simples:
 <br>
 Encryption📁
@@ -114,7 +114,7 @@ Encryption📁
 <br>
 ├──Program.cs📄
 <br>
-## Partes Principais
+## Partes Principais:
 ### Program.cs📄
 Classe principal que executa e controla todas as outras.
 
